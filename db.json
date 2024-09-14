@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Myra"
+    },
+    {
+      "name": "Elsie Price",
+      "id": "3"
+    },
+    {
+      "name": "Harold Strosin",
+      "id": "4"
+    },
+    {
+      "id": "29a0",
+      "name": "Charles Parker"
+    },
+    {
+      "id": "d374",
+      "name": "Margarita Schaefer I"
+    },
+    {
+      "id": "26ff",
+      "name": "Kelvin Swaniawski-Orn"
+    },
+    {
+      "id": "21c5",
+      "name": "Tomas Mertz Jr."
+    },
+    {
+      "id": "dc48",
+      "name": "Larry Wisozk V"
+    }
+  ],
+  "albums": [
+    {
+      "id": "10",
+      "title": "Hiking Trip",
+      "userId": 1
+    }
+  ]
+}
